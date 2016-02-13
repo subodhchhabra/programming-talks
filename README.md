@@ -72,6 +72,7 @@ mind you).
 * [From REST to CQRS with Clojure, Kafka, & Datomic](https://www.youtube.com/watch?v=qDNPQo9UmJA) [00:44:24] by **Bobby Calderwood**
 * [Game Development Development](https://www.youtube.com/watch?v=ajX09xQ_UEg) [00:35:09] by **Michael Nygard & Ragnar Svensson**
 * [Typed Clojure in Practice](https://www.youtube.com/watch?v=a0gT0syAXsY) [00:41:59] by **Ambrose Bonnaire**
+* [Clojure for Schemers](https://vimeo.com/22675078) [01:17:27] by **David Nolen**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
@@ -367,6 +368,7 @@ mind you).
 * [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII) [00:45:00] by **Rich Hickey**
 * [The Sociology of Programming Languages](https://www.youtube.com/watch?v=M4Gsl8sVgdQ) [00:42:11] by **Leo Meyerovich**
 * [Implement an Esoteric Programming Language for Fun](https://www.youtube.com/watch?v=oCPT3L33848) [00:22:16] by **Arne Martin Aurlien**
+* [A Dinosaur's Thoughts on Programming Language Evolution](https://www.youtube.com/watch?v=Z9OYc1YYLT4) by **Matthew Flatt**
 
 ####Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam**
@@ -423,6 +425,7 @@ mind you).
 * [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) [00:22:06] by **David Nolen**
 * [How I learned to Code by Making 180 websites in 180 days](https://www.youtube.com/watch?v=QaSbL4sRff8) [00:22:03] by **Jennifer De Walt**
 * [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) [00:42:59] by **Gil Tene**
+* [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham**
 
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert**
@@ -435,6 +438,7 @@ mind you).
 ####Machine Learning
 * [Neural Nets for Newbies](https://www.youtube.com/watch?v=g-BJSl4zV_g) [00:30:57] by **Melanie Warrick**
 * [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) [01:07:24] by **Yann LeCun**
+* [Automatic Algorithm Invention with a GPU](https://youtu.be/xQDazGrKsuM) [01:02:04] by **Wesley Faler**
 
 ####Theoretical Computer Science
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) [01:03:41] by **Philip Wadler**
