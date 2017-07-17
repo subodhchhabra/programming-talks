@@ -22,7 +22,7 @@ To make choosing the right speakers a tad easier, let me give you a quick overvi
 over my favourite speakers in no particular order:
 
 * **Scott Meyers** (C++): Scott Meyers is one of the most entertaining and knowledgeable
-speaker when it comes to all things C++. His talks cover a variety of topics, from type 
+speaker when it comes to all things C++. His talks cover a variety of topics, from type
 inference to API design and cache lines.
 * **Rich Hickey** (Clojure): I am not a Clojure programmer, but I like reasoning about
 and building programming languages. Even if you don't, Rich Hickeys talks are inspiring
@@ -176,7 +176,7 @@ approachable than it actually is, and that is a good thing.
 * [Your Very Own Component Library](https://www.youtube.com/watch?v=zSYo7m5kGHQ) [00:20:04] by **Alex Sexton**
 
 #### D
-* [High Performance Code Using D](https://www.youtube.com/watch?v=eh8WETRT7q4) [00:58:52] by **Walter Bright**
+* [High Performance Code Using D](https://archive.org/details/dconf2014-day03-talk01) [01:03:24] by **Walter Bright**
 * [Refactoring JIT Compilation](https://www.youtube.com/watch?v=FGgFMZhnXvU) [00:43:57] by **Maxime Chevalier-Boisvert**
 * [SDC, a D Compiler as a Library](https://www.youtube.com/watch?v=AhR4PSExnqk) [00:48:37] by **Amaury Sechet**
 
@@ -253,7 +253,7 @@ approachable than it actually is, and that is a good thing.
 * [Communicating Sequential Goroutines](https://www.youtube.com/watch?v=gO1qF19y6KQ) [00:50:15] by **Adrian Cockcroft**
 * [The Hidden Power of Humble Interfaces](https://www.youtube.com/watch?v=s4e-cFhT620) [00:23:47] by **Aditya Mukerjee**
 * [Packet Capture, Analysis, and Injection with Go](https://www.youtube.com/watch?v=APDnbmTKjgM) [00:37:14] by **John Leon**
-* [cgo - Sadely Taming the Beast](https://www.youtube.com/watch?v=lhMhApWQp2E) [00:48:20] by **Filippo Valsorda**
+* [cgo - Safely Taming the Beast](https://www.youtube.com/watch?v=lhMhApWQp2E) [00:48:20] by **Filippo Valsorda**
 * [Crypto for Go Developers](https://www.youtube.com/watch?v=2r_KMzXB74w) [00:31:14] by **George Tankersley** (title of Youtube video wrong)
 
 #### Haskell
@@ -273,10 +273,16 @@ approachable than it actually is, and that is a good thing.
 * [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk) [00:36:12] by **Amar Shah**
 * [Data Parallel Haskell](https://www.youtube.com/watch?v=NWSZ4c9yqW8) [01:19:56] by **Simon Peyton Jones**
 * [Next Level MTL](https://www.youtube.com/watch?v=GZPup5Iuaqw) [00:44:36] by **George Wilson**
+* [What are Types for, or are they only Against?](https://www.youtube.com/watch?v=3U3lV5VPmOU) [01:03:37] by **Conor McBride**
 
 #### Idris
 * [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) [00:46:35] by **Edwin Brady**
 * [Type-driven Development of Communicating Systems in Idris](https://www.youtube.com/watch?v=IQO9N0Y8tcM) [00:40:37] by **Edwin Brady**
+* Dependently Typed Functional Programming in Idris: This talk has three parts:
+ * [Dependently Typed Functional Programming in Idris, Part I](https://vimeo.com/117221082) [01:20:29] by **David Christiansen**
+ * [Dependently Typed Functional Programming in Idris, Part II](https://vimeo.com/117973383) [01:02:47] by **David Christiansen**
+ * [Dependently Typed Functional Programming in Idris, Part III](https://vimeo.com/117979741) [00:58:14] by **David Christiansen**
+
 
 #### Java & Android
 * [Java - The Good, Bad and Ugly Parts](https://www.youtube.com/watch?v=hcY8cYfAEwU) [00:14:34] by **Josh Bloch**
@@ -303,11 +309,11 @@ approachable than it actually is, and that is a good thing.
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (it's 10 hours long!)
 * [Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) [00:46:10] by **Douglas Crockford**
 * [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc) [00:49:48] by **Douglas Crockford**
-* [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) [00:58:18] by **Ryan Dahl** 
-* [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) [00:41:43] by **Brian Ford** 
+* [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) [00:58:18] by **Ryan Dahl**
+* [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) [00:41:43] by **Brian Ford**
 * [Creating A Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=b5pFv9NB9fs) [00:41:54] by **Nicholas Zakas**
 * [Large Scale JavaScript Application Architecture](https://www.youtube.com/watch?v=kNrnRG1YgAQ) [00:50:40] by **Dan Lynch**
-* [Dissecting WebGL](http://new.livestream.com/hugeinc/events/2192947) [01:11:04] by **Justin Windle** 
+* [Dissecting WebGL](http://new.livestream.com/hugeinc/events/2192947) [01:11:04] by **Justin Windle**
     (you might want to take a look at [the slides](https://github.com/hugeinc/doctype-meetup/tree/master/dissecting-webgl), you cannot really see them well)
 * [10 Angular JS Patterns](https://www.youtube.com/watch?v=UlvCbnKAH3g) [01:01:27] by **John Papa**
 * [Design Decisions in AngularJS](https://www.youtube.com/watch?v=HCR7i5F5L8c) [00:40:00] by **Brad Green & Miško Hevery**
@@ -370,7 +376,7 @@ approachable than it actually is, and that is a good thing.
 
 #### Python
 (There is a good list of talks about Python to be found [here](https://github.com/s16h/py-must-watch))
-* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) [00:27:29] by **Jack Diederich** 
+* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) [00:27:29] by **Jack Diederich**
 * [Super Advanced Python](http://www.youtube.com/watch?v=u2KZJzoz-qI) [01:38:56] by **Raymond Chandler**
 * [Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI) [03:24:00] by **David Beazley**
 * [Discovering Python](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8) [00:47:50] by **David Beazley**
@@ -424,6 +430,8 @@ approachable than it actually is, and that is a good thing.
 * [Machete-mode debugging: Hacking your way out of a tight spot](https://www.youtube.com/watch?v=bAcfPzxB3dk) [00:35:13] by **Ned Batchelder**
 * [Builtin Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s) [00:42:13] by **David Beazley**
 * [Flask for Fun and Profit](https://www.youtube.com/watch?v=1ByQhAM5c1I) [01:01:23] by **Armin Ronacher**
+* [The Dictionary Even Mightier](https://www.youtube.com/watch?v=66P5FMkWoVU) [00:47:21] by **Brandon Rhodes**
+* [Grok the GIL - Write Fast And Thread Safe Python](https://www.youtube.com/watch?v=7SSYhuk5hmc) [00:41:29] by **A. Jesse Jiryu Davis**
 
 #### Racket
 * [Generic Collections: One Interface to Rule Them All](https://www.youtube.com/watch?v=JUD_JwG0alg) [00:18:26] by **Alexis King**
@@ -470,6 +478,7 @@ approachable than it actually is, and that is a good thing.
 * [Using Generics Effectively](https://www.youtube.com/watch?v=erJdCIti_O8) [00:23:42] by **Without Boats**
 * [The /r/playrust Classifier](https://www.youtube.com/watch?v=lY10kTcM8ek) [00:30:34] by **Suchin Gururangan & Colin O'Brien**
 * [RFC: In Order to Form a More Perfect \`union\`](https://www.youtube.com/watch?v=U8Gl3RTXf88) [00:28:21] by **Josh Triplet**
+* [How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!](https://www.youtube.com/watch?v=GCsxYAxw3JQ) [00:37:33] by **Ashley Williams**
 
 #### Scala
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA) [00:31:22] by **Dan Rosen**
@@ -505,7 +514,7 @@ approachable than it actually is, and that is a good thing.
 * [Inside the Wolfram Language](https://www.youtube.com/watch?v=EjCWdsrVcBM) [01:08:53] by **Stephen Wolfram**
 
 #### Miscellaneous
-* [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt** 
+* [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt**
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:29:16] by **Gary Bernhardt**
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds**
 * [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) [00:44:59] by **Bryan Lunduke**
@@ -684,12 +693,12 @@ approachable than it actually is, and that is a good thing.
 * [Practical UI physics](https://www.youtube.com/watch?v=90oMnMFozEE) [00:34:12] by **David DeSandro**
 
 #### Web Development
-* [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** 
-* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:28:44] by **Gary Bernhardt** 
-* [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** 
-* [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) [00:21:40] by **Chris Williams** 
-* [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams** 
-* [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) [00:32:07] by **James Mickens** 
+* [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford**
+* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:28:44] by **Gary Bernhardt**
+* [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf**
+* [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) [00:21:40] by **Chris Williams**
+* [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams**
+* [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) [00:32:07] by **James Mickens**
 * [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) [00:25:57] by **Scott Hanselmann**
 * [HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) [01:04:20] by **Paul Irish**
 * [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw) [00:23:25] by **Paul Irish**
@@ -704,6 +713,7 @@ approachable than it actually is, and that is a good thing.
 * [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) [00:42:59] by **Gil Tene**
 * [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham**
 * [Upgrading the Web](https://www.youtube.com/watch?v=6UTWAEJlhww) [00:41:19] by **Douglas Crockford**
+* [The Website Obesity Crisis](https://vimeo.com/147806338) [00:53:10] by **Maciej Ceglowski**
 
 #### System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert**
