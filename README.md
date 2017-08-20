@@ -234,7 +234,7 @@ approachable than it actually is, and that is a good thing.
 
 #### Go
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) [00:51:27] by **Rob Pike**
-* [The move from C to Go in the toolchain](https://www.hakkalabs.co/articles/gopherfest-2015-rob-pike-move-c-go-toolchain) by **Rob Pike**
+* [The move from C to Go in the toolchain](https://www.hakkalabs.co/articles/gopherfest-2015-rob-pike-move-c-go-toolchain) [00:32:52] by **Rob Pike**
 * [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) [00:34:11] by **Sameer Ajmani**
 * [Practical Go Programming](https://www.youtube.com/watch?v=2-pPAvqyluI) [00:59:20] by **Andrew Gerrand**
 * [Go for Pythonistas](https://www.youtube.com/watch?v=elu0VpLzJL8) [00:51:17] by **Francesc Campoy Flores**
@@ -560,6 +560,7 @@ approachable than it actually is, and that is a good thing.
 * [Inventing on Principle](https://vimeo.com/36579366) [00:54:20] by **Bret Victor**
 * [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8) [00:58:42] by **Scott Meyers**
 * [CPU Caches and Why You care](https://vimeo.com/97337258) [01:01:55] by **Scott Meyers** (written in C++, reasonable for almost every software developer)
+* [Things that Matter](https://www.youtube.com/watch?v=RT46MpK39rQ) [01:06:36] by **Scott Meyers**
 * [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) [00:59:51] by **Leslie Lamport**
 * [I have a good feeling about this - Why tooling is poised to make the jump to hyperspace](https://vimeo.com/76141334) [00:43:15] by **Reginald Braithwaite**
 * [The Not-So-Big Software Design](https://www.youtube.com/watch?v=arsK-CN5YDg) [00:47:31] by **Reginald Braithwaite**
