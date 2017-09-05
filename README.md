@@ -162,6 +162,7 @@ approachable than it actually is, and that is a good thing.
   * [Making C++ easier, faster and safer, Part II](https://www.youtube.com/watch?v=E36BUcTWo50) [01:16:00] by **Chandler Carruth**
 * [C++17, is it great or just OK?](https://www.youtube.com/watch?v=we0HUrXMC5s) [01:11:06] by **Michael Wong**
 * [Better Code](https://www.youtube.com/watch?v=cK_kftBNgBc) [01:20:00] by **Sean Parent**
+* [A \<chrono\> Tutorial](https://www.youtube.com/watch?v=P32hvk8b13M) [01:00:31] by **Howard Hinnant**
 
 #### Crystal
 * [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber**
@@ -479,6 +480,7 @@ approachable than it actually is, and that is a good thing.
 * [The /r/playrust Classifier](https://www.youtube.com/watch?v=lY10kTcM8ek) [00:30:34] by **Suchin Gururangan & Colin O'Brien**
 * [RFC: In Order to Form a More Perfect \`union\`](https://www.youtube.com/watch?v=U8Gl3RTXf88) [00:28:21] by **Josh Triplet**
 * [How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!](https://www.youtube.com/watch?v=GCsxYAxw3JQ) [00:37:33] by **Ashley Williams**
+* [Shipping a Solid Rust Crate](https://www.youtube.com/watch?v=JpkjOkiu-fA) [00:22:08] by **Michael Gattozzi**
 
 #### Scala
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA) [00:31:22] by **Dan Rosen**
@@ -584,6 +586,7 @@ approachable than it actually is, and that is a good thing.
 * [Scalable is Awesome, Literally!](https://www.youtube.com/watch?v=iquZl-CUR_U) [00:43:48] by **Garrett Smith**
 * [Boundaries](https://youtu.be/eOYal8elnZk) [00:30:19] by **Gary Bernhardt**
 * [Requests Under The Hood](https://www.youtube.com/watch?v=ptbCIvve6-k) [00:31:37] by **Cory Benfield**
+* [The Post JavaScript Apocalypse](https://www.youtube.com/watch?v=99Zacm7SsWQ) [00:54:12] by **Douglas Crockford**
 
 #### Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
@@ -610,6 +613,7 @@ approachable than it actually is, and that is a good thing.
 * [So you want to write an interpreter?](https://www.youtube.com/watch?v=LCslqgM48D4) [00:40:38] by **Alex Gaynor**
 * [Let's Write an Interpreter](https://www.youtube.com/watch?v=RPxvx9OkNic) [00:28:34] by **Ryan Davis**
 * [An Introduction to Combinator Compilers and Graph Reduction Machines](https://www.youtube.com/watch?v=GawiQQCn3bk) [00:39:30] by **David Graunke**
+* [Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler](https://www.youtube.com/watch?v=KHa-OSrZPGo) [00:59:33] by **Justin Lebar**
 
 #### Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
